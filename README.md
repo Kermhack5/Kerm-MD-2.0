@@ -13,4 +13,8 @@
 
 
   <p align="center"> Introducing Kerm MD 2.0,KERM is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
- 
+
+
+ - Install [External Plugins](https://github.com/SamPandey001/Secktor-Plugins)
+## Deployment Methods
+
