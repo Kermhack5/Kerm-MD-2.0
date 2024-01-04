@@ -9,4 +9,8 @@
 ![banner](https://i.imgur.com/iWNGLzw.jpg)
 
 <a href="https://chat.whatsapp.com/LhSWBTKUZbO8s9g0g5xy44"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-blue?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+
+
+  <p align="center"> Introducing Kerm MD 2.0,KERM is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
  
