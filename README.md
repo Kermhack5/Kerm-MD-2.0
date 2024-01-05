@@ -38,24 +38,6 @@ mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority
 <a
 href='https://heroku.com/deploy?template=https://github.com/Kermhack5/Kerm-MD-2.0' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-```
-yarn
-npm i pm2 -g && pm2 start lib/client.js
-```
-Copy the JSON down and paste in repl then fill the vars
-
-```
-{
-  "SESSION_ID": "ID-Here",
-  "OWNER_NUMBER": "237xxxxxx",
-  "OWNER_NAME": "Rayan",
-  "OPENAI_API_KEY": "null",
-  "MONGODB_URI": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority",
-  "PACK_INFO": "Kerm MD",
-  "PREFIX": "."
-}
-```
-## Contributions🧠
 
 Contributions to Kerm-MD 2.0 are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request
 
