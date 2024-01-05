@@ -18,7 +18,7 @@
  - Install [External Plugins](https://github.com/SamPandey001/Secktor-Plugins)
 ## Deployment Methods
 ---
-1. ***Get [SESSION-ID](https://replit.com/@Kermhack5/Kerm-MD-20?v=1) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1. ***Get [SESSION-ID]() by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 2.  ***Get a Mongodb uri from [Mongodb](https://github.com/SamPandey001/Secktor-Md/wiki/Mongodb-URI) | [Tutorial](https://www.youtube.com/watch?v=WWrpBCBlyuo).***
 
 
