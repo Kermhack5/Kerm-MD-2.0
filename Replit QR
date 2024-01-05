@@ -1,3 +1,6 @@
+yarn add @whiskeysockets/baileys
+yarn add github:https://github.com/Kermhack5/Kerm-MD-2.0
+import makeWASocket from '@whiskeysockets/baileys'
 import makeWASocket, { DisconnectReason } from '@whiskeysockets/baileys'
 import { Boom } from '@hapi/boom'
 
@@ -23,7 +26,7 @@ async function connectToWhatsApp () {
         console.log(JSON.stringify(m, undefined, 2))
 
         console.log('replying to', m.messages[0].key.remoteJid)
-        await sock.sendMessage(m.messages[0].key.remoteJid!, { text: 'Hello there Am Kerm MD!' })
+        await sock.sendMessage(m.messages[0].key.remoteJid!, { text: 'Hello there!' })
     })
 }
 // run in main file
