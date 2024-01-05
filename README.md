@@ -29,4 +29,8 @@ mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority
 3.  ***Click [FORK](https://github.com/Kermhack5/Kerm-MD-2.0/fork)***
 ## Heroku Deployment Method
 
-1.  if you do not have a heroku account click <br>
+1.  ***If you do not have a heroku account click <br>***
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Créer-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+2. ***You have a directly deployed account***
+href='https://heroku.com/deploy?template=https://github.com/Kermhack5/Kerm-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-Déploie-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
