@@ -25,3 +25,7 @@
 ***Free Mongodb URI,LOL***
 ```
 mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority
+```
+3.  ***Click [FORK](https://github.com/Kermhack5/Kerm-MD-2.0/fork)***
+## Heroku Deployment Method
+4.  ***Deploy on [Heroku](https://github.com/Kermhack5/Kerm-MD-2.0.herokuapp.com/heroku)***
