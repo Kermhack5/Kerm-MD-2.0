@@ -1,6 +1,3 @@
-yarn add @whiskeysockets/baileys
-yarn add github:https://github.com/Kermhack5/Kerm-MD-2.0
-import makeWASocket from '@whiskeysockets/baileys'
 import makeWASocket, { DisconnectReason } from '@whiskeysockets/baileys'
 import { Boom } from '@hapi/boom'
 
