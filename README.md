@@ -53,5 +53,26 @@ Copy the JSON down and paste in repl then fill the vars
   "MONGODB_URI": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority",
   "PACK_INFO": "Kerm MD",
   "PREFIX": "."
+}
+```
+## Contributions🧠
 
-      ## Contributions🧠
+Contributions to Kerm-MD 2.0 are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request
+
+ **Come and say hello** : I would be very happy to know you and talk with you. Get closer and talk about the improvements that our bot can have.
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="wa.me/+237656520674">
+  <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Come and say hello" height="40" width="150" style="margin-left: 60px;">
+</a>
+
+## Developer😎
+ [**Rayan™**](https://github.com/Kermhack5)
+ - Star ⭐ repo if you like Kerm MD 2.0.
+
+   ### Thanks To
+     - [EXCEL]( https://github.com/excelottah6) for Ideas
+
+       ## License
+
+       The Kerm MD is made available under the [GPL-3 license](https://github.com/Kermhack5/Kerm-MD-2.0/blob/main/LICENSE)
+       
