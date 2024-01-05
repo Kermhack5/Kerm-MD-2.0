@@ -36,7 +36,7 @@ mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority
 3. ***You have a directly deployed account***
    
 <a
-href='https://heroku.com/deploy?template=https://github.com/Kermhack5/Kerm-MD-2.0' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-Déploie-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+href='https://heroku.com/deploy?template=https://github.com/Kermhack5/Kerm-MD-2.0' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 ```
 yarn
